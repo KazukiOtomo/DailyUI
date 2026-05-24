@@ -13,3 +13,5 @@ https://kazukiotomo.github.io/DailyUI/
 | 01 | Sign Up | ボランティア登録フォーム |
 | 02 | Credit Card Checkout | クレジットカード決済フォーム |
 | 03 | Landing Page | 習慣化アプリのランディングページ |
+| 04 | Calculator | 住宅ローンシミュレーター |
+| 05 | App Icon | スマートフォンアプリアイコン |

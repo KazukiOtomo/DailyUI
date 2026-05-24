@@ -5,6 +5,8 @@ const challenges = [
   { day: 1, title: "Sign Up", description: "ボランティア登録フォーム" },
   { day: 2, title: "Credit Card Checkout", description: "クレジットカード決済フォーム" },
   { day: 3, title: "Landing Page", description: "習慣化アプリのランディングページ" },
+  { day: 4, title: "Calculator", description: "住宅ローンシミュレーター" },
+  { day: 5, title: "App Icon", description: "スマートフォンアプリアイコン" },
 ];
 
 export default function Home() {
