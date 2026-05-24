@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 
 const challenges = [
   { day: 1, title: "Sign Up", description: "ボランティア登録フォーム" },
+  { day: 2, title: "Credit Card Checkout", description: "クレジットカード決済フォーム" },
 ];
 
 export default function Home() {
