@@ -7,6 +7,11 @@ const challenges = [
   { day: 3, title: "Landing Page", description: "習慣化アプリのランディングページ" },
   { day: 4, title: "Calculator", description: "住宅ローンシミュレーター" },
   { day: 5, title: "App Icon", description: "スマートフォンアプリアイコン" },
+  { day: 6, title: "User Profile", description: "デザイナーのポートフォリオプロフィール" },
+  { day: 7, title: "Settings", description: "アプリ設定画面" },
+  { day: 8, title: "404 Page", description: "404 Not Foundページ" },
+  { day: 9, title: "Music Player", description: "音楽プレイヤー" },
+  { day: 10, title: "Social Share", description: "記事シェア画面" },
 ];
 
 export default function Home() {

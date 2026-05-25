@@ -15,3 +15,8 @@ https://kazukiotomo.github.io/DailyUI/
 | 03 | Landing Page | 習慣化アプリのランディングページ |
 | 04 | Calculator | 住宅ローンシミュレーター |
 | 05 | App Icon | スマートフォンアプリアイコン |
+| 06 | User Profile | デザイナーのポートフォリオプロフィール |
+| 07 | Settings | アプリ設定画面 |
+| 08 | 404 Page | 404 Not Foundページ |
+| 09 | Music Player | 音楽プレイヤー |
+| 10 | Social Share | 記事シェア画面 |
