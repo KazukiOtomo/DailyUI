@@ -25,3 +25,8 @@ https://kazukiotomo.github.io/DailyUI/
 | 13 | Direct Message | ダイレクトメッセージUI |
 | 14 | Countdown Timer | カウントダウンタイマー |
 | 15 | On/Off Switch | 機械制御パネルのスイッチUI |
+| 16 | Overlay | プレミアムコンテンツ購読オーバーレイ |
+| 17 | Purchase Receipt | コーヒーショップ購入レシート |
+| 18 | Analytics Chart | 活動記録ダッシュボード |
+| 19 | Leaderboard | リーダーボード |
+| 20 | Location Tracker | 友人位置共有マップ |
