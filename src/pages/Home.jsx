@@ -26,6 +26,7 @@ const challenges = [
   { day: 22, title: "Search", description: "検索UI" },
   { day: 23, title: "Onboarding", description: "オンボーディング（3画面スライド）" },
   { day: 24, title: "Boarding Pass", description: "航空券搭乗券" },
+  { day: 25, title: "TV App", description: "ニュース・動画視聴アプリUI" },
 ];
 
 export default function Home() {

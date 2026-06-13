@@ -34,3 +34,4 @@ https://kazukiotomo.github.io/DailyUI/
 | 22 | Search | 検索UI |
 | 23 | Onboarding | オンボーディング（3画面スライド） |
 | 24 | Boarding Pass | 航空券搭乗券 |
+| 25 | TV App | ニュース・動画視聴アプリUI |
