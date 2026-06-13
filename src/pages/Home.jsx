@@ -12,6 +12,20 @@ const challenges = [
   { day: 8, title: "404 Page", description: "404 Not Foundページ" },
   { day: 9, title: "Music Player", description: "音楽プレイヤー" },
   { day: 10, title: "Social Share", description: "記事シェア画面" },
+  { day: 11, title: "Flash Message", description: "フラッシュメッセージ（スナックバー）" },
+  { day: 12, title: "E-Commerce", description: "ナチュラルコスメECサイト" },
+  { day: 13, title: "Direct Message", description: "ダイレクトメッセージUI" },
+  { day: 14, title: "Countdown Timer", description: "カウントダウンタイマー" },
+  { day: 15, title: "On/Off Switch", description: "機械制御パネルのスイッチUI" },
+  { day: 16, title: "Overlay", description: "プレミアムコンテンツ購読オーバーレイ" },
+  { day: 17, title: "Purchase Receipt", description: "コーヒーショップ購入レシート" },
+  { day: 18, title: "Analytics Chart", description: "活動記録ダッシュボード" },
+  { day: 19, title: "Leaderboard", description: "リーダーボード" },
+  { day: 20, title: "Location Tracker", description: "友人位置共有マップ" },
+  { day: 21, title: "Home Monitoring", description: "スマートホームダッシュボード" },
+  { day: 22, title: "Search", description: "検索UI" },
+  { day: 23, title: "Onboarding", description: "オンボーディング（3画面スライド）" },
+  { day: 24, title: "Boarding Pass", description: "航空券搭乗券" },
 ];
 
 export default function Home() {

@@ -30,3 +30,7 @@ https://kazukiotomo.github.io/DailyUI/
 | 18 | Analytics Chart | 活動記録ダッシュボード |
 | 19 | Leaderboard | リーダーボード |
 | 20 | Location Tracker | 友人位置共有マップ |
+| 21 | Home Monitoring | スマートホームダッシュボード |
+| 22 | Search | 検索UI |
+| 23 | Onboarding | オンボーディング（3画面スライド） |
+| 24 | Boarding Pass | 航空券搭乗券 |
