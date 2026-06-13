@@ -20,3 +20,8 @@ https://kazukiotomo.github.io/DailyUI/
 | 08 | 404 Page | 404 Not Foundページ |
 | 09 | Music Player | 音楽プレイヤー |
 | 10 | Social Share | 記事シェア画面 |
+| 11 | Flash Message | フラッシュメッセージ（スナックバー） |
+| 12 | E-Commerce | ナチュラルコスメECサイト |
+| 13 | Direct Message | ダイレクトメッセージUI |
+| 14 | Countdown Timer | カウントダウンタイマー |
+| 15 | On/Off Switch | 機械制御パネルのスイッチUI |

@@ -11,6 +11,11 @@ import Day07 from "./Day07.jsx";
 import Day08 from "./Day08.jsx";
 import Day09 from "./Day09.jsx";
 import Day10 from "./Day10.jsx";
+import Day11 from "./Day11.jsx";
+import Day12 from "./Day12.jsx";
+import Day13 from "./Day13.jsx";
+import Day14 from "./Day14.jsx";
+import Day15 from "./Day15.jsx";
 
 export default function App() {
   return (
@@ -26,6 +31,11 @@ export default function App() {
       <Route path="/8" element={<Day08 />} />
       <Route path="/9" element={<Day09 />} />
       <Route path="/10" element={<Day10 />} />
+      <Route path="/11" element={<Day11 />} />
+      <Route path="/12" element={<Day12 />} />
+      <Route path="/13" element={<Day13 />} />
+      <Route path="/14" element={<Day14 />} />
+      <Route path="/15" element={<Day15 />} />
     </Routes>
   );
 }
